@@ -1,3 +1,1 @@
-Source code related to my [YouTube Channel](https://www.youtube.com/channel/UCTSDQ3BAZfrweD2nBMwJEpQ)
-
-After downloading the code, open the browser on the index.html file.
+![ReadMe](https://github.com/DimaKu1/kulpin-visitcard-html/assets/156417617/952326c4-8de8-4e2f-ada6-05bfeb8cc32d)
